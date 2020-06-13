@@ -475,3 +475,69 @@ greeting = "Good evening";
 }
 
 //task7//
+
+
+
+//Chapter14-16//
+//task1//
+var names = [];
+
+
+//task2//
+
+
+//task3//
+var alphabets=["a","b","c","d"];
+
+//task4//
+var numbers=[1,2,3,4,];
+
+//task5//
+
+
+//task6//
+var mixedArray = [4, "Fahad", "Hello World", true];
+
+
+//task7//
+var qualifications=["1)SSC <br\>", "2)HSC<br\>", "3)BCS<br\>","4)BS<br\>", "5)BCOM<br\>", "6)MS<br\>", "7)M. Phil<br\>","8)PhD<br\>"]; 
+document.write("<h3>Qualifications:<h3/>");  
+document.write(qualifications);   
+
+
+
+//task8//
+var names=["Michael","John","Tony"];
+var scores=[320,230,480];
+var total=500;
+var percentageM=scores[0]/500*100;
+var percentageJ=scores[1]/500*100;
+var percentageT=scores[2]/500*100;
+
+document.write("<br\><br\>Score of "+ names[0] + " is " + scores[0] + " Percentage: " + percentageM + "%" );
+document.write("<br\>Score of "+ names[1] + " is " + scores[1] + " Percentage: " + percentageJ + "%");
+document.write("<br\>Score of "+ names[2] + " is " + scores[2] + " Percentage: " + percentageT + "%");
+
+
+//task9//
+var colors=["Red","Green","Blue","Orange","Purple","Yellow"];
+
+
+//task10//
+var scores=[320,230,480,120];
+
+
+//task11//
+var cities=["Karachi","Islamabad","Lahore","Quetta","Peshawar"];
+var selectedCities=["Karachi","Islamabad","Lahore"];
+
+//task12//
+var arr =["This","is" ," my","cat"];
+
+//task13//
+
+//task14//
+
+//task15//
+var manufacturers=["Apple","Samsung", "Motorola", "Nokia", "Sony","Haier"];
+
